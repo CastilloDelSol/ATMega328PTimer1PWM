@@ -1,0 +1,7 @@
+ATMega328PTimer1PWM     KEYWORD1
+initialize              KEYWORD2
+analogWriteResolution    KEYWORD2
+analogWrite             KEYWORD2
+setDutyCyclePin9        KEYWORD2
+setDutyCyclePin10       KEYWORD2
+getTop                 KEYWORD2
