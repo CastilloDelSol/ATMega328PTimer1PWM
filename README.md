@@ -42,6 +42,7 @@ void setup() {
 void loop() {
     // Nothing is required in the main loop for PWM control
 }
+```
 
 ### API Documentation
 
